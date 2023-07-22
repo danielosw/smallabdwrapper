@@ -1,3 +1,3 @@
 # Python Android Bridge
 
-This is a smal wrapper for ADB in python.
+This is a small wrapper for ADB in python.
