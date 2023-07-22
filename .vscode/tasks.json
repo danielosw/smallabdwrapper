@@ -6,7 +6,12 @@
         {
             "label": "python build",
             "type": "shell",
-            "command": "py -m build"
+            "command": "py -m build",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
