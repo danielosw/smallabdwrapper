@@ -6,7 +6,7 @@
         {
             "label": "python build",
             "type": "shell",
-            "command": "echo Hello"
+            "command": "py -m build"
         }
     ]
 }
