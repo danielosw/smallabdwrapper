@@ -2,4 +2,4 @@
 
 This is a small wrapper for ADB in python.
 
-Its honestly pretty bad.
+It's honestly pretty bad, but its the only interesting thing I have made thats isn't either embarrassing or reveals some amount of information about me
